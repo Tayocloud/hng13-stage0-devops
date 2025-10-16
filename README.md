@@ -1,4 +1,1 @@
-Name: Temitayo Ali Awopetu
-slack username: @TemitayoA
-project: Simple NGINX web server on AWS EC2
-server IP: 3.88.108.217
+Name: Temitayo Ali Awopetu  Slack username: @TemitayoA  Project: Simple NGINX web server on AWS EC2  Server IP: 3.88.108.217
